@@ -1,1 +1,3 @@
-"# COD3r - Projetos de estudos" 
+# COD3r - Projetos de estudos
+
+- Em progresso...
